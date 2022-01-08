@@ -1,3 +1,12 @@
+### Lurking: How a Person Became a User
+#### by Joanne McNeil
+
+![43565344](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553563781l/43565344.jpg)
+
+In _Lurking_, Joanne McNeil digs deep and identifies the primary (if sometimes contradictory) concerns of people online: searching, safety, privacy, identity, community, anonymity, and visibility. She charts what it is that brought people online and what keeps us here even as the social equations of digital life—what we’re made to trade, knowingly or otherwise, for the benefits of the internet—have shifted radically beneath us. It is a story we are accustomed to hearing as tales of entrepreneurs and visionaries and dynamic and powerful corporations, but there is a more profound, intimate story that hasn’t yet been told.
+
+---
+
 ### CyberVille: Clicks, Culture, and the Creation of an Online Town
 ####  by Stacy Horn!
 
