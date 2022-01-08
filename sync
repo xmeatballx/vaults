@@ -9,6 +9,6 @@ then
     git commit -m "$gstatus"
 
 	git pull
-    git push
+    git push origin main
 
 fi
