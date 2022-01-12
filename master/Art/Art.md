@@ -1,1 +1,3 @@
 [[inbox]]
+[[inspo]]
+[[ideas]]

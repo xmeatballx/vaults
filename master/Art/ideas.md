@@ -1,0 +1,2 @@
+[[pathfinding]]
+[[process of elimintation]]
