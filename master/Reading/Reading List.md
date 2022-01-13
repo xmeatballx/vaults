@@ -1,16 +1,20 @@
 ### Color Scheme: An Irreverent History of Art and Pop Culture in Color Palettes
-#### by Edith Young!
+#### by Edith Young
+[buy](https://www.amazon.com/Color-Scheme-Irreverent-History-Palettes/dp/1616899921)
 
 ![Edith Young&#39;s Color Scheme – The Brooklyn Rail](https://brooklynrail.org/article_image/image/31328/pockros-color-scheme-1-cover.jpg)
 
 
 In Edith Young's Color Scheme, the color palette becomes a vehicle to examine art history, popular culture, and the artist's own professional and artistic development....The primary allure...is Young’s artwork and methodology, but the writing, at times both humorous and sophisticated, will get you to stay.
+
 #design #color #popculture
+
 ---
 
-### [A Theory of Pure Design][[theoryofpuredesign.pdf]]
-[[Theory of Pure Design Notes]]
+### A Theory of Pure Design
 #### by Denman W. Ross
+[[theoryofpuredesign.pdf]]
+[[Theory of Pure Design Notes]]
 ![A Theory of Pure Design: Harmony, Balance, Rhythm (Classic Reprint): Ross,  Denman W.: 9781528454797: Amazon.com: Books](https://images-na.ssl-images-amazon.com/images/I/71O1A6rB0RL.jpg)
 
 #design 
@@ -19,9 +23,47 @@ In Edith Young's Color Scheme, the color palette becomes a vehicle to examine ar
 
 ### The Visual History of Type
 #### Paul McNeil
+[buy](https://www.amazon.com/Visual-History-Type-Paul-McNeil/dp/1780679769)
 ![The Visual History of Type: A visual survey of 320 typefaces: McNeil, Paul:  9781780679761: Amazon.com: Books](https://images-na.ssl-images-amazon.com/images/I/41h-2YJDU9L.jpg)
 
-#design #typography 
+#design #typography [[typefaces]]
+
+---
+
+### Grid systems in graphic design: A visual communication manual for graphic designers, typographers and three dimensional designers
+#### by Josef Muller Brockman
+[[Mueller-Brockmann_Josef_Grid_Systems_in_Graphic_Design_Raster_Systeme_fuer_die_Visuele_Gestaltung_English_German_no_OCR.pdf]]
+
+![](https://images-na.ssl-images-amazon.com/images/I/71kik4mbrbL.jpg)
+
+#layout #design 
+
+---
+
+### The Grammar of Ornament
+#### by Owen Jones
+[[The grammar of ornament (1868).pdf]]
+![The Grammar of Ornament: A Visual Reference of Form and Colour in  Architecture and the Decorative Arts - The complete and unabridged  full-color edition: Jones, Owen: 9780691172064: Amazon.com: Books](https://images-na.ssl-images-amazon.com/images/I/91sDk+RvydL.jpg)
+#color #form #texture [[wallpaper symmetry groups]]
+
+---
+
+### Thinking with type: A Critical Guide for Designers, Writers, Editors, & Students
+#### By Ellen Lupton
+[[thinkingwithtype_ellenlupton.pdf]]
+![](https://images-na.ssl-images-amazon.com/images/I/71wE+2WB-VL.jpg)
+#typography [[typefaces]]
+
+#typography #design #ux 
+
+---
+
+### A dictionary of Color Combinations
+#### by Sanzo Wada
+[interactive version by @dblodorn on github](https://sanzowada.app/)
+![](https://images-na.ssl-images-amazon.com/images/I/61CCq+e0vWL.jpg)
+
+#color #design 
 
 ---
 

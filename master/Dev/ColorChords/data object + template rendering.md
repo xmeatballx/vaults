@@ -58,16 +58,16 @@ let state = {
 let styles = {
 	note: "note w-full h-max p-3 md:flex md:flex-row",
 	controls: "controls w-full",
-	interval: "param interval text-base text-mid font-semibold transition ease-in-out m-0 p-1 w-full mb-2 shadow-sm border border-light rounded focus:text-light focus:border-blue-600 focus:outline-none",
+	interval: "param text-base text-mid 2xl:text-2xl font-semibold transition ease-in-out m-0 p-1 w-full mb-2 shadow-sm border border-light rounded focus:text-light focus:border-blue-600 focus:outline-none",
 	colorPreview: "color_preview w-full h-6",
 	octaveContainer: "flex flex-wrap justify-between w-full mt-3",
-	octaveLabel: "text-sm text-mid",
-	octaveValue: "octave_value text-sm text-mid",
+	octaveLabel: "text-sm text-mid 2xl:text-2xl",
+	octaveValue: "ooctave_value text-sm text-mid 2xl:text-2xl",
 	octave: "param octave slider light mt-3 mb-3 form-range w-full p-0 focus:outline-none focus:ring-0 focus:shadow-none",
 	velocityContainer: "flex flex-wrap justify-between w-full",
-	velocityLabel: "text-sm text-mid",
-	velocityValue: "velocity_value text-sm text-mid",
-	velocity: "param velocity slider light mt-3 mb-3 form-range w-full p-0 focus:outline-none focus:ring-0 focus:shadow-none",
+	velocityLabel: "text-sm text-mid 2xl:text-2xl",
+	velocityValue: "saturation_value text-sm text-mid 2xl:text-2xl",
+	velocity: "param saturation slider light mt-3 mb-3 form-range w-full p-0 focus:outline-none focus:ring-0 focus:shadow-none",
 	colorPreview2: "color_preview hidden w-2/4 flex-grow ml-3 border-2 border-light"
 }
 
@@ -75,30 +75,32 @@ function renderListTemplate(state) {
 	const listItems = state.notes.map((note, index) => {
 		`<li class=${styles.note} data-index=${index}>
 			<div class=${styles.controls}>
-				<select name="interval" class=${styles.interval} value=${note.interval}>
-					<option value="1" class="text-sm">Fundamental</option>
-					<option value="1.067" class="text-sm">Minor Second</option>
-					<option value="1.125" class="text-sm">Major Second</option>
-					<option value="1.200" class="text-sm">Minor Third</option>
-					<option value="1.250" class="text-sm">Major Third</option>
-					<option value="1.333" class="text-sm">Perfect Fourth</option>
-					<option value="1.414" class="text-sm">Tritone</option>
-					<option value="1.500" class="text-sm">Perfect Fifth</option>
-					<option value="1.600" class="text-sm">Minor Sixth</option>
-					<option value="1.666" class="text-sm">Major Sixth</option>
-					<option value="1.777" class="text-sm">Minor Seventh</option>
-					<option value="1.875" class="text-sm">Major Seventh</option>
-				</select>
+				<div class="interval-wrapper">
+					<select name="interval" class=${styles.interval} value=${note.interval} data-index=${index} data-parameter="transpose">
+						<option value="1" class="text-sm">Fundamental</option>
+						<option value="1.067" class="text-sm">Minor Second</option>
+						<option value="1.125" class="text-sm">Major Second</option>
+						<option value="1.200" class="text-sm">Minor Third</option>
+						<option value="1.250" class="text-sm">Major Third</option>
+						<option value="1.333" class="text-sm">Perfect Fourth</option>
+						<option value="1.414" class="text-sm">Tritone</option>
+						<option value="1.500" class="text-sm">Perfect Fifth</option>
+						<option value="1.600" class="text-sm">Minor Sixth</option>
+						<option value="1.666" class="text-sm">Major Sixth</option>
+						<option value="1.777" class="text-sm">Minor Seventh</option>
+						<option value="1.875" class="text-sm">Major Seventh</option>
+					</select>
+				</div>
 				<div class=${styles.colorPreview}></div>
 				<div class=${styles.octaveContainer}>
 					<label for="octave" class=${styles.octaveLabel}>Octave</label>
 					<div class=${styles.octaveValue}>${note.octave}</div>
-					<input type="range" name="octave" class=${styles.octave} min="-4" max="4" value=${note.octave}/>
+					<input type="range" name="octave" class=${styles.octave} min="-4" max="4" value=${note.octave} data-index=${index} data-parameter="octave"/>
 				</div>
 				<div class=${styles.velocityContainer}>
-						<label for="velocity" class=${styles.velocityLabel}>Velocity</label>
-						<div class=${styles.velocityValue}>${note.velocity*100}%</div>
-						<input type="range" name="velocity" class="${styles.velocity}" min=0 max=1 value=${note.velocity} step=.1"/>
+					<label for="velocity" class=${styles.velocityLabel}>Velocity</label>
+					<div class=${styles.velocityValue}>${note.velocity*100}%</div>
+					<input type="range" name="velocity" class="${styles.velocity}" min=0 max=1 value=${note.velocity} step=.1" data-index=${index} data-parameter="velocity"/>
 				</div>
 			</div>
 			<div class=${styles.colorPreview2}></div>	

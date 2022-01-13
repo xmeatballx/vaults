@@ -1,5 +1,5 @@
-# Todo's
----
+[[application flow graph]]
+
 * refactor js to stateful architecture
 	* [[data object + template rendering]]
 	* [[pubsub pattern]]
