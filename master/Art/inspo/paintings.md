@@ -1,4 +1,4 @@
-
+qq
 ### The Plaza Hotel
 #### by Guilaume Cornet
 ![Guillaume Cornet — New York Plaza Hotel, rotring pen &amp; markers on...](https://64.media.tumblr.com/1f326193169f80e35a877e17593a0b5e/tumblr_po1vi4w1L31sncj6wo1_500.jpg)
