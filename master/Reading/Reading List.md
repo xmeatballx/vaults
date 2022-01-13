@@ -9,6 +9,7 @@ In Edith Young's Color Scheme, the color palette becomes a vehicle to examine ar
 ---
 
 ### [A Theory of Pure Design][[theoryofpuredesign.pdf]]
+[[Theory of Pure Design Notes]]
 #### by Denman W. Ross
 ![A Theory of Pure Design: Harmony, Balance, Rhythm (Classic Reprint): Ross,  Denman W.: 9781528454797: Amazon.com: Books](https://images-na.ssl-images-amazon.com/images/I/71O1A6rB0RL.jpg)
 
