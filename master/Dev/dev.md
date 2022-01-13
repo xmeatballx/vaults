@@ -1,3 +1,5 @@
 [[colorchords]]
 [[concepts]]
 [[silly stuff]]
+[[important commands]]
+[[inbox]]
