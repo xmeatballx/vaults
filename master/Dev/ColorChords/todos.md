@@ -1,6 +1,6 @@
 
 ## In Progress
-- [ ] implement useTheme function for dark/light switching
+
 
 ---
 
@@ -34,6 +34,7 @@
  ---
 
 ## Completed
+- [x] implement useTheme function for dark/light switching
 - [x] application architecture [[application flow graph]]
 - [x] implement state module
 - [x] implement event handler
