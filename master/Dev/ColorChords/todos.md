@@ -1,5 +1,4 @@
 ## current
-- [ ] implement new piano code
 - [ ] implement curtains shader
 	- [ ] explore making shader canvases web components
 	- [ ] implement main graphic
@@ -30,3 +29,5 @@
 - [x] implement event handler
 - [x] implement pubsub 
 - [x] implement template rendering
+- [x] update slider UI values on input not change
+- [x] implement new piano code

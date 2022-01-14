@@ -24,13 +24,21 @@ function useTheme() {
 }
 
 
+
+
 const params = document.querySelectorAll(".param")
 [...params.children].forEach(param => {
 	note.addEventListener("change", => useParam())
 })
 
 const themeToggle = document.querySelector(".toggle");
-themeToggle.addEventListener("click" => useTheme());
+themeToggle.addEventListener("click", e => useTheme());
+
+//update slider display values on input
+const allSliders = document.querySelectorAll("input type=[range]");
+[...allSliders].forEach(slider => {
+	slider.addEventListener("input",e => updateControlsUI);
+})
 
 ```
 
