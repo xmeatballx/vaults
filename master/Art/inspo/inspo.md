@@ -1,1 +1,3 @@
 [[paintings]]
+[[drawings]]
+[[prints]]

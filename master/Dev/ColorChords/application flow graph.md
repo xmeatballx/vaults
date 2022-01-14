@@ -2,7 +2,7 @@
 
 graph TD;
 
-	A[useControls] --> |publish: controls| B((PubSub));
+	A[useControls] --> |publish: controls| B[PubSub];
 
 	D[useTheme] --> |publish: theme| B
 

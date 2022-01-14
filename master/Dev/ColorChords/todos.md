@@ -1,4 +1,10 @@
-## current
+
+## In Progress
+- [ ] implement useTheme function for dark/light switching
+
+---
+
+## Current
 - [ ] implement curtains shader
 	- [ ] explore making shader canvases web components
 	- [ ] implement main graphic
@@ -7,7 +13,9 @@
 
 ---
 
-## down the line
+## Down the Line
+- [ ] experiment with 180deg arc instead of circle
+- [ ] Using theme pub sub channel add option to assign colors to css theme variables
 - [ ] fix select focus styling
 - [ ] add delete button
 - [ ] implement tab switcher functionality
@@ -21,9 +29,11 @@
 		- [ ] implement modal over focus container
 - [ ] add note sorting
 - [ ] refactor js file structure (MVC maybe?)
-- [ ] implement local storage concurrency 
+- [ ] implement local storage concurrency
 
-## completed
+ ---
+
+## Completed
 - [x] application architecture [[application flow graph]]
 - [x] implement state module
 - [x] implement event handler
