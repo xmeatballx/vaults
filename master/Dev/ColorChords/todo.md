@@ -5,6 +5,7 @@
 ---
 
 ## Current
+- [ ] FIX UL WIDTH OVERFLOW
 - [ ] implement curtains shader
 	- [ ] explore making shader canvases web components
 	- [ ] implement main graphic
