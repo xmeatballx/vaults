@@ -1,11 +1,13 @@
 
 ## In Progress
-
+- [ ] implement addNote function
+	- [ ] add createNote factory and createShaderUniforms factory [[Dev/concepts/js/factorypattern]]
+	- [ ] initialize state with createNote and createShaderUniforms factories
+	- [ ] implement button on click useAdd function and addNote functions
 
 ---
 
 ## Current
-- [ ] FIX UL WIDTH OVERFLOW
 - [ ] implement curtains shader
 	- [ ] explore making shader canvases web components
 	- [ ] implement main graphic
@@ -35,6 +37,7 @@
  ---
 
 ## Completed
+- [x] FIX UL WIDTH OVERFLOW
 - [x] implement useTheme function for dark/light switching
 - [x] application architecture [[application flow graph]]
 - [x] implement state module
