@@ -58,6 +58,14 @@ In Edith Young's Color Scheme, the color palette becomes a vehicle to examine ar
 
 ---
 
+### Typographic Design: Form and Communication, Second Edition 
+#### by Rob Carter, Ben Day & Philip Meggs. Published by Van Nostrand Reinhold, 1993.
+![Typographic Design: Form and Communication: Carter, Rob, Day, Ben, Meggs,  Philip, Meggs, Philip B.: 9780442007591: Amazon.com: Books](https://images-na.ssl-images-amazon.com/images/I/21m6aiCJ-wL._BO1,204,203,200_.jpg)
+
+#typography #design 
+
+---
+
 ### A dictionary of Color Combinations
 #### by Sanzo Wada
 [interactive version by @dblodorn on github](https://sanzowada.app/)
