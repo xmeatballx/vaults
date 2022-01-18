@@ -1,17 +1,14 @@
 
 ## In Progress
-- [ ] implement addNote function
-	- [ ] add createNote factory and createShaderUniforms factory [[Dev/concepts/js/factorypattern]]
-	- [ ] initialize state with createNote and createShaderUniforms factories
-	- [ ] implement button on click useAdd function and addNote functions
+
+- [ ] implement curtains shader
+	- [ ] explore making shader canvases web components
+	- [x] implement main graphic
+	- [ ] implement getting color from pixels
 
 ---
 
 ## Current
-- [ ] implement curtains shader
-	- [ ] explore making shader canvases web components
-	- [ ] implement main graphic
-	- [ ] implement getting color from pixels
 - [ ] extract controls template into individual components 
 
 ---
@@ -37,6 +34,10 @@
  ---
 
 ## Completed
+- [x] implement addNote function
+	- [x] add createNote factory and createShaderUniforms factory [[Dev/concepts/js/factorypattern]]
+	- [x] initialize state with createNote and createShaderUniforms factories
+	- [x] implement button on click useAdd function and addNote functions
 - [x] FIX UL WIDTH OVERFLOW
 - [x] implement useTheme function for dark/light switching
 - [x] application architecture [[application flow graph]]

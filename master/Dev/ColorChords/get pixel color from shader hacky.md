@@ -1,22 +1,25 @@
 divide image into numNotes vertical stripes and use js canvas api to get color of each segment
 ```glsl
-	void main() {
-		vec4 image = texture(iChannel0, uv);
+	void main()
+{
+    // Normalized pixel coordinates (from 0 to 1)
+    vec2 uv = fragCoord/iResolution.xy;
+    vec3 cols[6] = vec3[6](vec3(1.,0.,0.), vec3(0.,0.,1.), vec3(0.,1.,0.), vec3(.5,.5,0.), vec3(0.,5.,5.), vec3(.5,0.,5.));
     
-	    vec4 col;
-	    float angles[] = float[6](0.,1.,2.,3.,4.,5.);
-	    float offsets[6] = float[6](1.,1.,1.,1.,1.,1.);
-	    float octaves[6] = float[6](0.,0.,-.2,.5,-1.,1.);
-	    
-	    for (int i=0;i<12;i++){
-	        if (i<6) {
-		        vec2 offset = vec2(sin(angles[i]),cos(angles[i]));
-		        vec2 pos = uv + (offset*offsets[i])*.4;
-		        c = texture(iChannel0,offset)+vec4(vec3(octaves[i]),1.);
-				///check if uv within segment width + stripeOffset and add c to col
-			}
-		}
-		gl_FragColor = 
+    
+    vec3 col;
+    for (float i=0.; i< 6.; i++) {
+        float w = 1./6.;
+        float rBorder = w + (w)*i;
+        float lBorder = rBorder - w;
+        if (uv.x < rBorder && uv.x > lBorder) {
+            col = cols[int(i)];
+        }
+    }
+
+    // Output to screen
+    fragColor = vec4(col,1.0);
+}
 	
 ```
 
