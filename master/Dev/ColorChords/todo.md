@@ -1,39 +1,43 @@
 
 ## In Progress
 
-- [ ] implement curtains shader
-	- [ ] explore making shader canvases web components
-	- [x] implement main graphic
-	- [ ] implement getting color from pixels
 
 ---
 
 ## Current
-- [ ] extract controls template into individual components 
+- [ ] extract controls template into individual components
+- [ ] fix transpose display to step over semitones instead of degrees
+- [ ] add delete button
+- [ ] fix select focus styling
+- [ ] add note sorting
 
 ---
 
 ## Down the Line
 - [ ] experiment with 180deg arc instead of circle
 - [ ] Using theme pub sub channel add option to assign colors to css theme variables
-- [ ] fix select focus styling
-- [ ] add delete button
+	- [ ] implement themehandler module in the controller directory
 - [ ] implement tab switcher functionality
 	- [ ] color only view
 	- [ ] code view
 		- [ ] extract rgb value
-		- [ ] extract hsv value
-		- [ ] extract hex code
+		- [ ] extract hsv value [[useful snippets#RGBtoHSV]]
+		- [ ] extract hex code [[useful snippets#RGBtoHex]]
 	- [ ] info
 		- [ ] write explanation
 		- [ ] implement modal over focus container
-- [ ] add note sorting
-- [ ] refactor js file structure (MVC maybe?)
 - [ ] implement local storage concurrency
 
  ---
 
 ## Completed
+- [x] refactor js file structure (MVC maybe?) [[MVC]]
+- [x] fix missing top divider on tab switcher aside
+- [x] scrap all curtains code and just use canvas
+- [x] implement curtains shader
+	- [x] explore making shader canvases web components
+	- [x] implement main graphic
+	- [x] implement getting color from pixels
 - [x] implement addNote function
 	- [x] add createNote factory and createShaderUniforms factory [[Dev/concepts/js/factorypattern]]
 	- [x] initialize state with createNote and createShaderUniforms factories
