@@ -50,3 +50,46 @@ function rgbToHex(r, g, b) {
   return "#" + componentToHex(r) + componentToHex(g) + componentToHex(b);
 }
 ```
+
+---
+
+## Add border to sdf
+```glsl
+vec4 addBorder(float d, float width, vec4 border, vec4 fill, vec4 background) {
+    if (d < -width) {
+        return fill;
+    }
+    if (d < 0.) {
+        float t = -d / width;
+        t = t * t;
+        return mix(border,fill,t);
+    }
+    if (d < width) {
+        float t = d / width;
+        t = t * t;
+        return mix(border,background,t);
+    }
+}
+```
+
+---
+
+## SDF circle
+```glsl
+float circleSDF(
+    float x,
+    float y,
+    float cx,
+    float cy, 
+    float r)
+{
+    // Sample coordinates relative to circle center.
+    float _x = x - cx;
+    float _y = y - cy;
+    
+    // Signed distance.
+    return sqrt(_x * _x + _y *_y) - r;
+}
+
+
+```

@@ -1,20 +1,18 @@
 
 ## In Progress
 
-
 ---
 
 ## Current
-- [ ] extract controls template into individual components
-- [ ] fix transpose display to step over semitones instead of degrees
-- [ ] add delete button
-- [ ] fix select focus styling
+
 - [ ] add note sorting
+	- [ ] add sort button to avoid confusing autosorting
 
 ---
 
 ## Down the Line
 - [ ] experiment with 180deg arc instead of circle
+- [ ] experiment with accurate color wheel instead of hsv picker
 - [ ] Using theme pub sub channel add option to assign colors to css theme variables
 	- [ ] implement themehandler module in the controller directory
 - [ ] implement tab switcher functionality
@@ -31,6 +29,10 @@
  ---
 
 ## Completed
+- [x] fix select focus styling
+- [x] add delete button
+- [x] fix transpose display to step over semitones instead of degrees
+- [x] extract controls template into individual components
 - [x] refactor js file structure (MVC maybe?) [[MVC]]
 - [x] fix missing top divider on tab switcher aside
 - [x] scrap all curtains code and just use canvas
