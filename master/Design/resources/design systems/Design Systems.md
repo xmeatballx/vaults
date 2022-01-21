@@ -1,4 +1,4 @@
-[[Design/resources/backlight.dev]]
+[[backlight.dev]]
 
 #design #designresources  #color #typography #layout #ui #ux
 

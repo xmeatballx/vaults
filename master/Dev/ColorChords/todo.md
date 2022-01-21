@@ -7,14 +7,14 @@
 
 - [ ] add note sorting
 	- [ ] add sort button to avoid confusing autosorting
+- [ ] Using theme pub sub channel add option to assign colors to css theme variables
+	- [ ] implement themehandler module in the controller directory
 
 ---
 
 ## Down the Line
-- [ ] experiment with 180deg arc instead of circle
-- [ ] experiment with accurate color wheel instead of hsv picker
-- [ ] Using theme pub sub channel add option to assign colors to css theme variables
-	- [ ] implement themehandler module in the controller directory
+
+
 - [ ] implement tab switcher functionality
 	- [ ] color only view
 	- [ ] code view
@@ -27,6 +27,11 @@
 - [ ] implement local storage concurrency
 
  ---
+ 
+ ## Maybes
+- [ ] experiment with 180deg arc instead of circle
+- [ ] experiment with accurate color wheel instead of hsv picker
+
 
 ## Completed
 - [x] fix select focus styling

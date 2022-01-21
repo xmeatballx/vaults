@@ -112,9 +112,14 @@ Defying a generation of scholars who have argued that there's no place for race 
 In the early 1960s, computers haunted the American popular imagination. Bleak tools of the cold war, they embodied the rigid organization and mechanical conformity that made the military-industrial complex possible. But by the 1990s—and the dawn of the Internet—computers started to represent a very different kind of world: a collaborative and digital utopia modeled on the communal ideals of the hippies who so vehemently rebelled against the cold war establishment in the first place.
 #counterculture #cyberculture 
 
+---
 
+### Multithreaded Javascript
+#### by Thomas Hunter and Bryan English
+![Multithreaded JavaScript](https://learning.oreilly.com/library/cover/9781098104429/250w/)
 
+[buy](https://www.myfonts.com/WhatTheFont/)
 
+---
 
-
-
+## [[Software-Architecture-Patterns.pdf]]

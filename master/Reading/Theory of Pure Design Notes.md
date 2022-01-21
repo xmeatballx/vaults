@@ -127,4 +127,48 @@
 #balance #position #distances 
 
 ---
-continue at p 23...
+## Rhythm
+![[Screen Shot 2022-01-20 at 7.10.14 PM.png]]
+
+#rhythm
+
+---
+
+## Attraction of Lines
+![[Screen Shot 2022-01-20 at 7.16.44 PM.png]]
+
+#atttraction
+
+---
+## shape and measure harmony
+![[Screen Shot 2022-01-20 at 7.27.36 PM.png]]
+
+#harmony #shape #measure
+
+---
+## Shape Harmony without Measure Harmony
+![[Screen Shot 2022-01-20 at 7.33.32 PM.png]]
+
+#harmony #shape #measure #rhythm
+
+---
+
+## Balance of Inclinations
+![[Screen Shot 2022-01-20 at 7.43.15 PM.png]]
+
+#balance 
+
+---
+## Harmony in Composition (parallelisms)
+![[Screen Shot 2022-01-20 at 7.56.46 PM.png]]
+
+#harmony 
+
+---
+## Balance without Symmetry
+
+![[Screen Shot 2022-01-20 at 8.05.37 PM.png]]
+
+The balance of inclinations in this case is just as good as the balance in Fig. 22. There is no symmetry as in Fig. 22. Three lines balance against one. The three lines, however, show the same extent of contrast as the one. So far as the inclinations are concerned they will balance in any arrangement which lies well within the field of vision. The eye must be able to appreciate the fact that a disposition to fall to the right is counteracted by a corresponding or equivalent disposition to fall to the left.
+
+#balance 

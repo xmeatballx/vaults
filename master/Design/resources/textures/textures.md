@@ -1,5 +1,5 @@
 #design#designresources 
-![[drawing11.16.21.png]]
+![[Design/resources/textures/drawing11.16.21.png]]
 ## [Texture Fabrik](https://texturefabrik.com/gallery/)
 <iframe src="https://texturefabrik.com/gallery/" height="500" style="width: 100%"></iframe>
 
