@@ -172,3 +172,22 @@
 The balance of inclinations in this case is just as good as the balance in Fig. 22. There is no symmetry as in Fig. 22. Three lines balance against one. The three lines, however, show the same extent of contrast as the one. So far as the inclinations are concerned they will balance in any arrangement which lies well within the field of vision. The eye must be able to appreciate the fact that a disposition to fall to the right is counteracted by a corresponding or equivalent disposition to fall to the left.
 
 #balance 
+
+---
+## Balance of inclinations
+
+![](app://local/C%3A%5CUsers%5COwner%5CDocuments%5CObsidian%20Vaults%5Cmaster%5CReading%5Cfig138.PNG?1642728862976)
+
+#balance 
+
+---
+
+## Composition thought experiment
+
+![[fig 156.PNG]]
+![[fig157+158.PNG]]
+![[fig159.PNG]]
+
+---
+
+continue at page 96
