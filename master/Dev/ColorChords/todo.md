@@ -5,6 +5,7 @@
 
 ## Current
 
+- [ ] Change innerHTML string templates to document fragments for security and optimization
 - [ ] add note sorting
 	- [ ] add sort button to avoid confusing autosorting
 - [ ] Using theme pub sub channel add option to assign colors to css theme variables

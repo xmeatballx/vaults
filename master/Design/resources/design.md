@@ -6,7 +6,7 @@
 [[Design Systems]]
 [[textures]]
 	[[wallpaper symmetry groups]]
-[[tools]]
+[[Design/resources/tools]]
 ---
 ## Books
 [[Reading List#Color Scheme An Irreverent History of Art and Pop Culture in Color Palettes]]
