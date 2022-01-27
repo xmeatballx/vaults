@@ -4,27 +4,16 @@
 ---
 
 ## Current
-
-- [ ] Change innerHTML string templates to document fragments for security and optimization
-- [ ] add note sorting
-	- [ ] add sort button to avoid confusing autosorting
-- [ ] Using theme pub sub channel add option to assign colors to css theme variables
-	- [ ] implement themehandler module in the controller directory
-
+- [ ] fix mobile layout for code and info views
+- [x] rerender colorwheel with saturation lerp to more accurately reflect hsv
 ---
 
 ## Down the Line
 
-
-- [ ] implement tab switcher functionality
-	- [ ] color only view
-	- [ ] code view
-		- [ ] extract rgb value
-		- [ ] extract hsv value [[useful snippets#RGBtoHSV]]
-		- [ ] extract hex code [[useful snippets#RGBtoHex]]
-	- [ ] info
-		- [ ] write explanation
-		- [ ] implement modal over focus container
+- [ ] add note sorting
+	- [ ] add sort button to avoid confusing autosorting
+- [ ] Using theme pub sub channel add option to assign colors to css theme variables
+	- [ ] implement themehandler module in the controller directory
 - [ ] implement local storage concurrency
 
  ---
@@ -35,6 +24,19 @@
 
 
 ## Completed
+- [x] make transpose slider update piano
+- [x] change trash icon to svg so color can transition on theme toggle
+- [x] implement tab switcher functionality
+	- [x] color only view
+	- [x] toggle icon color active on tab change
+	- [x] code view
+		- [x] extract rgb value
+		- [x] extract hsv value [[useful snippets#RGBtoHSV]]
+		- [x] extract hex code [[useful snippets#RGBtoHex]]
+	- [x] info
+		- [x] write explanation
+		- [x] implement modal over focus container
+- [x] Change innerHTML string templates to document fragments for security and optimization
 - [x] fix select focus styling
 - [x] add delete button
 - [x] fix transpose display to step over semitones instead of degrees

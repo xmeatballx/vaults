@@ -98,3 +98,14 @@ float circleSDF(
 
 
 ```
+
+---
+
+## Remove all children from an element
+```js
+function removeAllChildNodes(parent) { 
+	while (parent.firstChild) { 
+		parent.removeChild(parent.firstChild); 
+	} 
+}
+```
