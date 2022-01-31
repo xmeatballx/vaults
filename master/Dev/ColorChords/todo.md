@@ -4,7 +4,7 @@
 ---
 
 ## Current
-- [ ] fix mobile layout for code and info views
+- [x] fix mobile layout for code and info views
 - [x] rerender colorwheel with saturation lerp to more accurately reflect hsv
 ---
 

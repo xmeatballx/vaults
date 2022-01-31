@@ -1,6 +1,7 @@
 ## how many pages?
 
-* currently:
+* currently:w
+	* home
 	* motion
 	* illustration
 	* contact
@@ -10,5 +11,5 @@
 
 
 ## navigation style
-* long vertical single page scroll through that can jump between sections
-* multiple pages
+* long vertical single page scroll through that can jump between sections (like the boys club site)
+* multiple pages (like current site)

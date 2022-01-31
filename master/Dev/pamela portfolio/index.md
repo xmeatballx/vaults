@@ -1,5 +1,9 @@
 # pamela guest portfolio
 
+## current site
+<iframe src="https://pamelaguest.com" height=500 style="width:100%"></iframe>
+
+
 ## inspo
 <iframe src="https://angelakirkwood.com/drawing" height=500 style="width:100%"></iframe>
 
@@ -16,7 +20,7 @@
 * everything different size how?
 	* psuedorandom size + placement
 	* or masonry (diff sized elements in a structured container)
-* animated bg graphics?
+* animated bg graphics/general motion ideas?
 * [[typeface(s)]]
 * [[content map]]
 	* how many pages?
