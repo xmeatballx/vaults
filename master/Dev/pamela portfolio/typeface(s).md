@@ -4,4 +4,4 @@ proposals:
 	*  [[typefaces#Open Sauce]]
 	*  [[typefaces#Akziden-Grotesk]]
 suggested:
-	*
+	* will SEND OTF FILES

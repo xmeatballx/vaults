@@ -2,4 +2,4 @@
 [[concepts]]
 [[silly stuff]]
 [[useful snippets]]
-[[inbox]]
+[[Dev/inbox]]

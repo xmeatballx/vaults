@@ -1,13 +1,15 @@
 ## how many pages?
 
-* currently:w
+* currently:
 	* home
 	* motion
 	* illustration
 	* contact
 
 * proposed:
-	* 
+	* illustration
+	* animation
+	* info
 
 
 ## navigation style
