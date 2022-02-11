@@ -1,3 +1,10 @@
+
+
+### Dear Data
+#### by Giorgia Lupi
+http://www.dear-data.com/theproject
+![Dear Data, The Project — giorgialupi](https://images.squarespace-cdn.com/content/v1/550de105e4b05c49fa2bba03/1453306052989-T9H9Z0WSI2ZBAZDYCXKS/DearData-week52-Giorgia.jpg?format=750w)
+
 ### Color Scheme: An Irreverent History of Art and Pop Culture in Color Palettes
 #### by Edith Young
 [buy](https://www.amazon.com/Color-Scheme-Irreverent-History-Palettes/dp/1616899921)

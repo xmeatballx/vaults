@@ -37,5 +37,21 @@ qq
 #graffiti #western #vintage #illustration 
 
 ---
-Saloua Raouda Choucair (1916 - 2017) was a Lebanese abstract painter and sculptor. Informed by her interest across several fields such as quantum physics and Arabic poetry, Choucair’s abstract-expressionist works combined principles of Islamic art, science, mathematics, and she produced paintings, sculptures, architectural plans, jewelry and other abstracted objects.
+## Saloua Raouda Choucair
+(1916 - 2017) was a Lebanese abstract painter and sculptor. Informed by her interest across several fields such as quantum physics and Arabic poetry, Choucair’s abstract-expressionist works combined principles of Islamic art, science, mathematics, and she produced paintings, sculptures, architectural plans, jewelry and other abstracted objects.
 <iframe src="https://www.instagram.com/p/CYt4CeMraTm/?utm_medium=share_sheet" height="500" style="width: 100%"></iframe>
+
+#generative
+
+---
+
+## sophie taeuber-arp @ moma
+* combo of strict grid + organic sinousoidal curves
+* from Blue Form 1935 synopsis
+> " 'so clear and so serene' and 'so precise and so exuberant' it could be seen as gay science"
+![Sophie Taeuber-Arp: a model artist for today | Financial Times](https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5a6e8cc8-c3a0-4532-babd-c8dbaad6f1b0.jpg?fit=scale-down&source=next&width=700)
+![[IMG_5228.jpg]]
+### takeaways
+* generative w/ contstraints
+	* gemoetric repetition on a grid, conforms to strict rules of balance, harmony, rhythm
+* not everything has to strictly conform to said rules. A lot of her pieces didn't feature obvious or explicit use of strict pure design yet still had overall harmony

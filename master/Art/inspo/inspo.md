@@ -1,3 +1,5 @@
 [[paintings]]
 [[drawings]]
 [[prints]]
+[[digital]]
+[[zines]]

@@ -4,24 +4,26 @@
 ---
 
 ## Current
-- [x] fix mobile layout for code and info views
-- [x] rerender colorwheel with saturation lerp to more accurately reflect hsv
+- [ ] finish chord picker
+- [ ] implement octave control
+- [ ] rethink hold
 ---
 
 ## Down the Line
-
-- [ ] add note sorting
-	- [ ] add sort button to avoid confusing autosorting
-- [ ] Using theme pub sub channel add option to assign colors to css theme variables
-	- [ ] implement themehandler module in the controller directory
 - [ ] implement local storage concurrency
-
- ---
+---
  
  ## Maybes
-- [ ] experiment with 180deg arc instead of circle
-- [ ] experiment with accurate color wheel instead of hsv picker
+ - [ ] Using theme pub sub channel add option to assign colors to css theme variables
+	- [ ] implement themehandler module in the controller directory
 
+---
+
+## Trash
+- [x] add note sorting
+	- [x] add sort button to avoid confusing autosorting
+- [x] experiment with 180deg arc instead of circle
+- [x] experiment with accurate color wheel instead of hsv picker
 
 ## Completed
 - [x] make transpose slider update piano
