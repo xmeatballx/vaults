@@ -1,13 +1,25 @@
 ## Design Resources
 ---
+### Color
 [[Color schemes]]
+
+### Type
 [[typefaces]]
 [[foundries]]
+[[practical typography]]
+
+### Design Systems
 [[Design Systems]]
+
+### Textures
 [[textures]]
 	[[wallpaper symmetry groups]]
+
+### Tools
 [[Design/resources/tools]]
+
 ---
+
 ## Books
 [[Reading List#Color Scheme An Irreverent History of Art and Pop Culture in Color Palettes]]
 [[Reading List#A Theory of Pure Design]]

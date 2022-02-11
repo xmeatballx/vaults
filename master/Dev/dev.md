@@ -1,5 +1,8 @@
 [[colorchords]]
+[[portfolio]]
+[[index]]
 [[concepts]]
 [[silly stuff]]
 [[useful snippets]]
 [[Dev/inbox]]
+[[Dev/tools]]

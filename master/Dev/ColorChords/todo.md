@@ -51,7 +51,7 @@
 	- [x] implement main graphic
 	- [x] implement getting color from pixels
 - [x] implement addNote function
-	- [x] add createNote factory and createShaderUniforms factory [[Dev/concepts/js/factorypattern]]
+	- [x] add createNote factory and createShaderUniforms factory [[factorypattern]]
 	- [x] initialize state with createNote and createShaderUniforms factories
 	- [x] implement button on click useAdd function and addNote functions
 - [x] FIX UL WIDTH OVERFLOW

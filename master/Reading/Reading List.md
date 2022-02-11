@@ -51,7 +51,7 @@ In Edith Young's Color Scheme, the color palette becomes a vehicle to examine ar
 #### by Owen Jones
 [[The grammar of ornament (1868).pdf]]
 ![The Grammar of Ornament: A Visual Reference of Form and Colour in  Architecture and the Decorative Arts - The complete and unabridged  full-color edition: Jones, Owen: 9780691172064: Amazon.com: Books](https://images-na.ssl-images-amazon.com/images/I/91sDk+RvydL.jpg)
-#color #form #texture [[wallpaper symmetry groups]]
+#color #form #texture
 
 ---
 
