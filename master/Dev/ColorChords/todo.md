@@ -1,11 +1,11 @@
 
 ## In Progress
-
+- [ ] implement octave control
 ---
 
 ## Current
 - [ ] finish chord picker
-- [ ] implement octave control
+
 - [ ] rethink hold
 ---
 

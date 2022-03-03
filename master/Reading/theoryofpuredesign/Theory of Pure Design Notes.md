@@ -1,4 +1,4 @@
-#design #designresources 
+0#design #designresources 
 
 # Introduction
 
@@ -190,4 +190,12 @@ The balance of inclinations in this case is just as good as the balance in Fig. 
 
 ---
 
-continue at page 96
+## Outlines
+![[FIG169.png]]
+![[fig170.png]]
+![[fig211.png]]
+![[fig212.png]]
+![[fig213.png]]
+#### "In this example I have tried to make a good composition with my five outlines. The problem is difficult. The outlines to be combined have so little Harmony. The only Harmony we can achieve will be the Harmony of the same arrangement of shapes repeated, which amounts to Shape-Harmony. Inversions will give us the satisfaction of Balance. Inversions on a vertical axis will give us the satisfaction of Symmetry. In the design above given I have achieved simply the Harmony of a relation of shapes repeated, with Rhythm. The Rhythm is due to the repetition of a decidedly unbalanced group of elements with a predominance of convergences in one direction. The movement is on the whole up, in spite of certain downward convergences. The upward convergences predominate. There are more inclinations to the right than to the left, but the composition which is repeated is unstable in its attitude and suggests a falling away to the left. The resultant of these slight divergences of movement is a general upward movement."
+
+continue pg 122
