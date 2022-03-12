@@ -1,12 +1,19 @@
 
 ## In Progress
-- [ ] implement octave control
+- [x] implement octave control
+- [x] finish chord picker
 ---
 
 ## Current
-- [ ] finish chord picker
-
-- [ ] rethink hold
+- [ ]  add keyboard input for musical keys
+- [ ]  fix piano styling
+	- [ ]  keep piano max-width equal to app container max-width
+	- [ ]  deal with svg line doubling between octaves
+- [ ]  avoid rerendering whole palette when possible
+	- [ ]  create each colorblock once and remove from dom when disposed
+	- [ ]  in what cases is a complete rerender required?
+- [ ]   adjust colorblock text for contrast based on bg color
+- [ ] implement sortable on palette
 ---
 
 ## Down the Line
