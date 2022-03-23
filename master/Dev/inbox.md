@@ -18,3 +18,6 @@
 	* stuff im working on ?
 * users enter streaming links for their entries whether its youtube, bandcamp, soundcloud, spotify,  or apple music
 * once a user creates an entry it becomes publicly available for others to use in their entries. Eg. one of someones favorite albums is Slut Pop and * they create the entry including cover, artist, release date, and apple music link. Another user has the same favorite album and can autofill their entry with info created by the first user and customise if necessary 
+
+## Modular Synth in the browser
+### with web components

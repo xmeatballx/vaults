@@ -1,19 +1,28 @@
 
 ## In Progress
-- [x] implement octave control
-- [x] finish chord picker
+- [ ] get rid of this.actives and just use this.colors??
+- [ ] comment source code for documentation
+	- [ ]  chords
+	- [x]  palette
+	- [ ]  piano
+	- [ ]  controller
+	- [ ]  theme 
+	- [ ]  params
+	- [ ]  app
 ---
 
 ## Current
-- [ ]  add keyboard input for musical keys
 - [ ]  fix piano styling
-	- [ ]  keep piano max-width equal to app container max-width
+	- [x]  keep piano max-width equal to app container max-width
 	- [ ]  deal with svg line doubling between octaves
 - [ ]  avoid rerendering whole palette when possible
-	- [ ]  create each colorblock once and remove from dom when disposed
+	- [x]  create each colorblock once and remove from dom when disposed
+	- [ ]  use ref from event callback to update component view and cache when changed
 	- [ ]  in what cases is a complete rerender required?
 - [ ]   adjust colorblock text for contrast based on bg color
-- [ ] implement sortable on palette
+- [x] implement sortable on palette
+	- [x] use the old/new index from sortable update to rearrange colors array
+- [ ] maybe get rid of hold. it doesnt make sense replace with tutorial
 ---
 
 ## Down the Line
@@ -33,6 +42,9 @@
 - [x] experiment with accurate color wheel instead of hsv picker
 
 ## Completed
+- [x]  add keyboard input for musical keys
+- [x] implement octave control
+- [x] finish chord picker
 - [x] make transpose slider update piano
 - [x] change trash icon to svg so color can transition on theme toggle
 - [x] implement tab switcher functionality
